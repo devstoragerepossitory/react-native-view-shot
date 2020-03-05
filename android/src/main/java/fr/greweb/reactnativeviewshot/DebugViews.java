@@ -1,12 +1,12 @@
 package fr.greweb.reactnativeviewshot;
 
-import android.support.annotation.TargetApi;
+import android.annotation.TargetApi;;
 import android.app.Activity;
 import android.content.res.Resources;
 import android.graphics.Matrix;
 import android.os.Build;
 import android.support.annotation.NonNull;
-import androidx.core.util.Pair;
+import android.support.v4.util.Pair;
 import android.util.Log;
 import android.view.View;
 import android.view.ViewGroup;
