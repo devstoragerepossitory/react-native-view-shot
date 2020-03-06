@@ -1,4 +1,3 @@
-
 package fr.greweb.reactnativeviewshot;
 
 import java.util.Arrays;
